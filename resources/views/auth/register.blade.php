@@ -1,6 +1,6 @@
 <h1 class="text-center"><span> Silakan Hubungi Administrator Di 087779533395 </span></h1>
 
-@extends('layouts.app')
+{{-- @extends('layouts.app')
 
 @section('content')
 <div class="container">
@@ -76,4 +76,4 @@
         </div>
     </div>
 </div>
-@endsection
+@endsection --}}
