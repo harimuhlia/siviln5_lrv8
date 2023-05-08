@@ -25,11 +25,11 @@ class SearchdataController extends Controller
             $searchsiswa = Siswa::where('jurusan',  'like', "%" . $request->jurusan . "%")->where('NISN',  'like', "%" . $request->NISN . "%")->where('no_ijazah',  'like', "%" . $request->no_ijazah . "%")->get();
         $jurusan = Jurusan::all();
             //dd($request);
-            return view('search_data', compact('searchsiswa','jurusan'));
+            return view('search_data2', compact('searchsiswa','jurusan'));
         } else {
             // dd('halo');
         $jurusan = Jurusan::all();
-            return view('search_data', compact('jurusan'));
+            return view('search_data2', compact('jurusan'));
         }
     }
     // public function index(Request $request)
