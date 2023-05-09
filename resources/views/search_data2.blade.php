@@ -90,7 +90,7 @@
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up">Sistem Verifikasi Ijazah Elektronik</h1>
-          <h2 data-aos="fade-up" data-aos-delay="400">Untuk memastikan keabsahan ijazah anda, pastikan nomor ijazah anda dapat diverifikasi melalui SIVIL. Pastikan anda mengisi Nama Jurusan, Nomor NISN dan Nomor Ijazah dengan benar. Apabila nomor ijazah anda tidak terdaftar, silakan hubungi Kesiswaan untuk memastikan data anda telah diinput dengan benar. Pendataan SIVIL Ijazah ini resmi diterbitkan dari T.P 2022-2023, bagi lulusan dibawah tahun tersebut apabila tidak ditemukan di SIVIL silakan hubungi Kesiswaan atau datang langsung ke Sekolah.</h2>
+          <h5 data-aos="fade-up" data-aos-delay="400">Untuk memastikan keabsahan ijazah anda, pastikan nomor ijazah anda dapat diverifikasi melalui SIVIL. Pastikan anda mengisi Nama Jurusan, Nomor NISN dan Nomor Ijazah dengan benar. Apabila nomor ijazah anda tidak terdaftar, silakan hubungi Kesiswaan untuk memastikan data anda telah diinput dengan benar. Pendataan SIVIL Ijazah ini resmi diterbitkan dari T.P 2022-2023, bagi lulusan dibawah tahun tersebut apabila tidak ditemukan di SIVIL silakan hubungi Kesiswaan atau datang langsung ke Sekolah.</h5>
           <div data-aos="fade-up" data-aos-delay="800">
             <a href="#about" class="btn-get-started scrollto">Verifikasi</a>
           </div>
@@ -136,6 +136,7 @@
           </div>
           <div class="col-12">
             <button class="btn btn-primary"><i class="far fa-mouse"></i> Verifikasi Data</button>
+            <br>
             <a class="btn btn-warning" href="/">Refresh Halaman Pencarian</a></li>
           </div>
         </form>

@@ -12,8 +12,8 @@
   <!-- /.login-logo -->
   <div class="card card-outline card-primary">
     <div class="card-header text-center">
-      <img src="{{ asset('adminLTE') }}/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
-      <a href="../../index2.html" class="h1"><b>SIVIL</b>NELKATA</a>
+      <img src="{{ asset('adminLTE') }}/dist/img/n5logo.png" class="img-circle elevation-2" alt="User Image">
+      <a href="/" class="h1"><b>SIVIL</b>NELKATA</a>
     </div>
     <div class="card-body">
       <p class="login-box-msg">Sistem Verifikasi Ijazah Elektronik</p>

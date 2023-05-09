@@ -51,6 +51,9 @@
                 <a href="/manageuser" class="btn btn-success btn-sm"><i class="fas fa-undo" title="Kembali"></i> Kembali</a>
               </div>
             </form>
+          </div>
         </div>
+      </div>
+    </div>
         <!-- /.card -->
 @endsection
